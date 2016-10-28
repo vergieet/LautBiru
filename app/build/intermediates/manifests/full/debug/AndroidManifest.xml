@@ -28,6 +28,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.platea.cashocean.ReferActivity" />
+        <activity android:name="com.platea.cashocean.WithdrawActivity" />
     </application>
 
 </manifest>
